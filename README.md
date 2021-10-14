@@ -55,3 +55,6 @@ I found it really interesting to see the data about the %of high quality article
 
 ### What might your results suggest about the internet and global society in general?
 Looking at the wikipedia results - it seems to suggest that high quality articles are heavily biased towards the western world. This seems to be a circular problem though as the media looks through the world through the lens of the west which in turn exemplifies the bias that already exists
+
+### Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
+I think in any situation where we use these results as a proxy for the strength of a regions popularity/global reach would result in misleading interpretations due to the inherent bias of the data
